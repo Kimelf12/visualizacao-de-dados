@@ -1,0 +1,10 @@
+Pacotes importantes para a execução do código:
+
+- instalar pip
+    sudo apt-get install pip
+
+- instalar matplotlib
+    sudo apt-get install matplotlib
+
+- instalar python tinker
+    sudo apt-get install python-tk
